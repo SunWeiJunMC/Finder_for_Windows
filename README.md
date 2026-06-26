@@ -1,0 +1,2 @@
+# Finder_for_Windows
+Explorer_on_MacOS_in Windows_Made_python_By_SunWeiJunMC
